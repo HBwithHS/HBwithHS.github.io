@@ -12,9 +12,6 @@ links:
   - name:         Home
     url:          /
     external:     false
-  - name:         Letter
-    url:          /letter
-    external:     false
   - name:         Menu
     url:          /menu
     external:     false
@@ -26,7 +23,7 @@ links:
     external:     false
 # ------------ CONFIGURABLE END ------------
 
-permalink:        /letter/:title
+permalink:        /posts/:title
 defaults:
   - values:
       layout: "default"
