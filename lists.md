@@ -2,8 +2,7 @@
 
 ---
 
-<ul class="list pa0">
-  <ol reversed="reversed">
+<ul class="list pa0" style="list-style: none;">
   {% for post in site.posts %}
   <li class="mv2">
     <a href="{{ site.url }}{{ post.url }}" class="db pv1 link blue hover-mid-gray">
@@ -12,5 +11,4 @@
     </a>
   </li>
   {% endfor %}
-  </ol>
 </ul>
