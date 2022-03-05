@@ -9,6 +9,13 @@ google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
 future:           true
 
+plugins:
+        - jekyll-maps
+maps:
+        google:
+                api_key: AIzaSyBPf-1UBKZKGljh25oCFVDHb7_xpQwPGQo
+
+
 links:
   - name:         Home
     url:          /
