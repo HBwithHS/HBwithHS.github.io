@@ -9,15 +9,7 @@
 
 <hr>
 <h2>Movie</h2>
+<p class="aligncenter">
+<img src="{{ site.url }}/images/posters.png">
+</p>
 
-<p>모가디슈
-
-만추
-
-돈룩업
-
-첨밀밀
-
-소셜 네트워크
-
-부당거래</p>
