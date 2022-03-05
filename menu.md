@@ -2,6 +2,8 @@
 title: &#128523;Kitchen HBHS&#128523;
 ---
 
+<h1>&#128523;Kitchen HBHS&#128523;</h1>
+
 <h2>Appetizers<br></h2>
 &#129382;브로콜리 구이<br>
 &#129366;바게트와 차지키 소스<br>
