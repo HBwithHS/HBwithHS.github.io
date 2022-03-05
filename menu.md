@@ -32,6 +32,6 @@ title: &#128523;Kitchen HBHS&#128523;
 &#127818; 천혜향과 귤<br>
 <hr>
 
-Owners : HB(Executive Chef) & HS(Sous Chef)<br>
+<strong>Owners : HB(Executive Chef) & HS(Sous Chef)<strong><br>
 
-<q><strong>"The Best Restaurant Ever"</strong></q>
+<i>The Best Restaurant Ever</i>
