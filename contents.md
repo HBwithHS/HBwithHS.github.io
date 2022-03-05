@@ -1,7 +1,7 @@
 ---
-# &#127925;Fun Together&#127909;
+<h1>&#127925;Fun Together&#127909;</h1>
 ---
-## Music
+<h2>Music</h2>
 
 [유튜브 플레이리스트](https://youtube.com/playlist?list=PL0uBPyMURsH5lRJt9u5ShHHf7jg0w3cIC), 가끔 업데이트 되고는 있지만..
 
