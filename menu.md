@@ -28,4 +28,9 @@ title: &#128523;Kitchen HBHS&#128523;
 <h2>Desserts</h2>
 &#127851;&#9749;티라미수<br>
 &#127818; 천혜향과 귤<br>
+<hr>
 
+Head Chef : HB<br>
+Main Chef : HS<br>
+
+<q><strong>"The Best Restaurant Ever"<strong></q>
