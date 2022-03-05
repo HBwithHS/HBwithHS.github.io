@@ -15,8 +15,8 @@ links:
   - name:         Menu
     url:          /menu
     external:     false
-  - name:         Music & Movie
-    url:          /msmv
+  - name:         Contents
+    url:          /contents
     external:     false
   - name:         Dates
     url:          /dates
