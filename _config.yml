@@ -26,9 +26,6 @@ links:
   - name:         Contents
     url:          /contents
     external:     false
-  - name:         Dates
-    url:          /dates
-    external:     false
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
