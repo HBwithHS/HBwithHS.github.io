@@ -3,7 +3,7 @@ title: &#128523;Kitchen HBHS&#128523;
 ---
 
 <h1>&#128523;Kitchen HBHS&#128523;</h1>
-
+<hr>
 <h2>Appetizers<br></h2>
 &#129382;브로콜리 구이<br>
 &#129366;바게트와 차지키 소스<br>
@@ -32,7 +32,6 @@ title: &#128523;Kitchen HBHS&#128523;
 &#127818; 천혜향과 귤<br>
 <hr>
 
-Head Chef : HB<br>
-Main Chef : HS<br>
+Owners : HB(Executive Chef) & HS(Sous Chef)<br>
 
-<q><strong>"The Best Restaurant Ever"<strong></q>
+<q><strong>"The Best Restaurant Ever"</strong></q>
